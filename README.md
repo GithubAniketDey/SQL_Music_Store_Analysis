@@ -21,3 +21,28 @@ Question Set
 6. Write query to return the email, first name, last name, & Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A
 7. Let's invite the artists who have written the most rock music in our dataset. Write a query that returns the Artist name and total track count of the top 10 rock bands
 8. Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first
+==================================================================================================================================================================================
+
+Q1.
+![1](https://github.com/GithubAniketDey/SQL_Music_Store_Analysis/assets/172539133/2910188f-0493-445e-a562-ed153a00ee08)
+
+Q2.
+![2](https://github.com/GithubAniketDey/SQL_Music_Store_Analysis/assets/172539133/d36239ef-ba76-449d-864d-77074c469133)
+
+Q3.
+![3](https://github.com/GithubAniketDey/SQL_Music_Store_Analysis/assets/172539133/2355ad76-fd90-4173-a11a-b27b376f3d1a)
+
+Q4.
+![4](https://github.com/GithubAniketDey/SQL_Music_Store_Analysis/assets/172539133/84643175-3438-4512-8aa6-8ddd56e662c7)
+
+Q5.
+![5](https://github.com/GithubAniketDey/SQL_Music_Store_Analysis/assets/172539133/f9aa9624-2ed2-42c0-9b21-df27cb65b68d)
+
+Q6.
+![6](https://github.com/GithubAniketDey/SQL_Music_Store_Analysis/assets/172539133/dc751ffa-9d53-4153-b7a5-9daa67347960)
+
+Q7.
+![7](https://github.com/GithubAniketDey/SQL_Music_Store_Analysis/assets/172539133/5c81ea8d-f01f-41d3-812a-0b43b28ab2a4)
+
+Q8.
+![8](https://github.com/GithubAniketDey/SQL_Music_Store_Analysis/assets/172539133/e6a85371-5d1d-4e46-b9b9-79b5b001aebb)
