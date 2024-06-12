@@ -27,12 +27,15 @@ Q1.
 ![1](https://github.com/GithubAniketDey/SQL_Music_Store_Analysis/assets/172539133/2910188f-0493-445e-a562-ed153a00ee08)
 
 Q2.
+
 ![2](https://github.com/GithubAniketDey/SQL_Music_Store_Analysis/assets/172539133/d36239ef-ba76-449d-864d-77074c469133)
 
 Q3.
+
 ![3](https://github.com/GithubAniketDey/SQL_Music_Store_Analysis/assets/172539133/2355ad76-fd90-4173-a11a-b27b376f3d1a)
 
 Q4.
+
 ![4](https://github.com/GithubAniketDey/SQL_Music_Store_Analysis/assets/172539133/84643175-3438-4512-8aa6-8ddd56e662c7)
 
 Q5.
